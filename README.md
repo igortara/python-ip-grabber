@@ -14,9 +14,3 @@ A lightweight and efficient **Flask-based** tool designed for network metadata c
 * **Python 3.10+**
 * **Linux Mint** / Ubuntu (or any Unix-based OS)
 * Libraries: `flask`, `requests`
-
-## ⚙️ Installation & Setup
-
-1. **Clone or create the script:**
-   ```bash
-   nano logger.py
